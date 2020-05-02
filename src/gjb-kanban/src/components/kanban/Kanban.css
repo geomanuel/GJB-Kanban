@@ -1,0 +1,21 @@
+.kanbanheader{
+    background-color: rgb(120, 209, 209);
+    text-align: center;
+}
+
+.kanbanBody{
+    border-radius: 10px;
+}
+
+.kanban{
+    padding: 0 2em 0 2em;
+}
+
+.container{
+    max-width: 100%;
+}
+
+.scroll{
+    overflow-x: visible;
+}
+

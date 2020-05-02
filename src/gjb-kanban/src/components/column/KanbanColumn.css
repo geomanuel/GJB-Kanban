@@ -1,0 +1,12 @@
+.kanbanColumn{
+    text-align: center;
+    border-color: black;
+    background-color: gray;
+    border-style: solid;
+    margin-bottom: 0.5em;
+}
+
+.columnheader{
+    background-color: greenyellow;
+    text-align: center;
+}

@@ -1,0 +1,2 @@
+React Modal -> 'npm install react-modal'
+React Color -> 'npm install react-color --save'
